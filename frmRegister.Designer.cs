@@ -165,7 +165,7 @@ namespace Login_and_registration_system
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(39, 461);
+            this.label5.Location = new System.Drawing.Point(48, 457);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(211, 23);
             this.label5.TabIndex = 5;
@@ -176,7 +176,7 @@ namespace Login_and_registration_system
             this.label6.AutoSize = true;
             this.label6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label6.ForeColor = System.Drawing.Color.Teal;
-            this.label6.Location = new System.Drawing.Point(71, 493);
+            this.label6.Location = new System.Drawing.Point(88, 492);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(131, 23);
             this.label6.TabIndex = 5;

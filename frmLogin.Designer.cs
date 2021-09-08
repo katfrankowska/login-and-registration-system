@@ -46,7 +46,7 @@ namespace Login_and_registration_system
             this.label6.AutoSize = true;
             this.label6.Cursor = System.Windows.Forms.Cursors.Hand;
             this.label6.ForeColor = System.Drawing.Color.Teal;
-            this.label6.Location = new System.Drawing.Point(74, 426);
+            this.label6.Location = new System.Drawing.Point(92, 431);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(132, 23);
             this.label6.TabIndex = 16;
@@ -56,7 +56,7 @@ namespace Login_and_registration_system
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(41, 393);
+            this.label5.Location = new System.Drawing.Point(59, 398);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(193, 23);
             this.label5.TabIndex = 17;
@@ -152,7 +152,7 @@ namespace Login_and_registration_system
             this.label1.ForeColor = System.Drawing.Color.Teal;
             this.label1.Location = new System.Drawing.Point(30, 31);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(194, 34);
+            this.label1.Size = new System.Drawing.Size(191, 33);
             this.label1.TabIndex = 6;
             this.label1.Text = "Get Started";
             // 
@@ -175,7 +175,7 @@ namespace Login_and_registration_system
             this.Font = new System.Drawing.Font("Nirmala UI", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.Silver;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmLogin";
